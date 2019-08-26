@@ -1,0 +1,8 @@
+.idea
+.gradle
+build
+androidTest
+test
+release
+*.iml
+local.properties
